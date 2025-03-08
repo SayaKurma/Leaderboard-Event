@@ -2,75 +2,66 @@ const participants = [
     {
         id: 1,
         name: "Luki",
-        days: generateDays(6),
+        days: [
+            {
+                day: 1,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            menangSebagaiImpostor: 5,
+                            membunuhCrewmate: 3,
+                            misiTerselesaikan: 7,
+                            mengidentifikasiImpostor: 2,
+                            membunuhImpostor: 4,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            menangSebagaiImpostor: 8,
+                            membunuhCrewmate: 1,
+                            misiTerselesaikan: 9,
+                            mengidentifikasiImpostor: 3,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            menangSebagaiImpostor: 6,
+                            membunuhCrewmate: 4,
+                            misiTerselesaikan: 8,
+                            mengidentifikasiImpostor: 1,
+                            membunuhImpostor: 5,
+                        },
+                    },
+                ],
+            },
+        ],
     },
     {
         id: 2,
         name: "Gon",
-        days: generateDays(6),
-    },
-    {
-        id: 3,
-        name: "Viol",
-        days: generateDays(6),
-    },
-    {
-        id: 4,
-        name: "Cinn",
-        days: generateDays(6),
-    },
-    {
-        id: 5,
-        name: "FiNe",
-        days: generateDays(6),
-    },
-    {
-        id: 6,
-        name: "Ao",
-        days: generateDays(6),
-    },
-    {
-        id: 7,
-        name: "Anna",
-        days: generateDays(6),
-    },
-    {
-        id: 8,
-        name: "Al",
-        days: generateDays(6),
-    },
-    {
-        id: 9,
-        name: "Alex",
-        days: generateDays(6),
-    },
-    {
-        id: 10,
-        name: "Kc",
-        days: generateDays(6),
+        days: [
+            {
+                day: 1,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            menangSebagaiImpostor: 3,
+                            membunuhCrewmate: 4,
+                            misiTerselesaikan: 7,
+                            mengidentifikasiImpostor: 2,
+                            membunuhImpostor: 3,
+                        },
+                    },
+                ],
+            },
+        ],
     },
 ];
-
-function generateDays(totalDays) {
-    const days = [];
-    for (let day = 1; day <= totalDays; day++) {
-        const sessions = [];
-        for (let session = 1; session <= 10; session++) {
-            sessions.push({
-                session: session,
-                points: {
-                    menangSebagaiImpostor: Math.floor(Math.random() * 10),
-                    membunuhCrewmate: Math.floor(Math.random() * 10),
-                    misiTerselesaikan: Math.floor(Math.random() * 10),
-                    mengidentifikasiImpostor: Math.floor(Math.random() * 10),
-                    membunuhImpostor: Math.floor(Math.random() * 10),
-                },
-            });
-        }
-        days.push({ day: day, sessions: sessions });
-    }
-    return days;
-}
 
 const modal = document.getElementById("participant-modal");
 const modalName = document.getElementById("modal-name");
