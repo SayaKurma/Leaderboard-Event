@@ -9,101 +9,626 @@ const participants = [
                     {
                         session: 1,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 2,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 3,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 4,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 5,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 6,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 7,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 8,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 9,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 10,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 2,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 3,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 4,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 5,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 6,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                 ],
@@ -120,101 +645,626 @@ const participants = [
                     {
                         session: 1,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 2,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 3,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 4,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 5,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 6,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 7,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 8,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 9,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 10,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 2,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 3,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 4,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 5,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 6,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                 ],
@@ -231,101 +1281,626 @@ const participants = [
                     {
                         session: 1,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 2,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 3,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 4,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 5,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 6,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 7,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 8,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 9,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 10,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 2,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 3,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 4,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 5,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 6,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                 ],
@@ -342,101 +1917,626 @@ const participants = [
                     {
                         session: 1,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 2,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 3,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 4,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 5,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 6,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 7,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 8,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 9,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 10,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 2,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 3,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 4,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 5,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 6,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                 ],
@@ -453,101 +2553,626 @@ const participants = [
                     {
                         session: 1,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 2,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 3,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 4,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 5,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 6,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 7,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 8,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 9,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 10,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 2,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 3,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 4,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 5,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 6,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                 ],
@@ -564,101 +3189,626 @@ const participants = [
                     {
                         session: 1,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 2,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 3,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 4,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 5,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 6,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 7,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 8,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 9,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 10,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 2,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 3,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 4,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 5,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 6,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                 ],
@@ -675,101 +3825,626 @@ const participants = [
                     {
                         session: 1,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 2,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 3,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 4,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 5,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 6,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 7,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 8,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 9,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 10,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 2,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 3,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 4,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 5,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 6,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                 ],
@@ -786,101 +4461,626 @@ const participants = [
                     {
                         session: 1,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 2,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 3,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 4,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 5,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 6,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 7,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 8,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 9,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 10,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 2,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 3,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 4,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 5,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 6,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                 ],
@@ -897,101 +5097,626 @@ const participants = [
                     {
                         session: 1,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 2,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 3,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 4,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 5,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 6,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 7,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 8,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 9,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 10,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 2,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 3,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 4,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 5,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 6,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                 ],
@@ -1008,101 +5733,1262 @@ const participants = [
                     {
                         session: 1,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 2,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 3,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 4,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 5,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 6,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 7,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 8,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 9,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                     {
                         session: 10,
                         points: {
-                            menangSebagaiImpostor: 0,
-                            membunuhCrewmate: 0,
-                            misiTerselesaikan: 0,
-                            mengidentifikasiImpostor: 0,
-                            membunuhImpostor: 0,
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 2,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 3,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 4,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 5,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 6,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+        ],
+    },
+    {
+        id: 11,
+        name: "Jena",
+        days: [
+            {
+                day: 1,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 2,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 3,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 4,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 5,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                ],
+            },
+            {
+                day: 6,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            Menang Sebagai Impostor: 0,
+                            Membunuh Crewmate: 0,
+                            Misi Terselesaikan: 0,
+                            Mengidentifikasi Impostor: 0,
+                            Membunuh Impostor: 0,
                         },
                     },
                 ],
@@ -1116,6 +7002,36 @@ const modalName = document.getElementById("modal-name");
 const modalDetails = document.getElementById("modal-details");
 const closeBtn = document.querySelector(".close");
 
+function showSessions(day, sessions) {
+    const sessionContainer = document.createElement("div");
+    sessionContainer.classList.add("session-container");
+
+    sessions.forEach((session) => {
+        const sessionDiv = document.createElement("div");
+        sessionDiv.classList.add("session-details");
+
+        const sessionHeader = document.createElement("h4");
+        sessionHeader.textContent = Sesi ${session.session};
+        sessionDiv.appendChild(sessionHeader);
+
+        for (const [key, value] of Object.entries(session.points)) {
+            const pointDetail = document.createElement("p");
+            pointDetail.textContent = ${key}: ${value} poin;
+            sessionDiv.appendChild(pointDetail);
+        }
+
+        sessionContainer.appendChild(sessionDiv);
+    });
+
+    const existingContainer = modalDetails.querySelector(.day-${day} .session-container);
+    if (existingContainer) {
+        existingContainer.remove();
+    } else {
+        const dayElement = modalDetails.querySelector(.day-${day});
+        dayElement.appendChild(sessionContainer);
+    }
+}
+
 document.querySelectorAll(".participant-name").forEach((link) => {
     link.addEventListener("click", (e) => {
         e.preventDefault();
@@ -1126,28 +7042,23 @@ document.querySelectorAll(".participant-name").forEach((link) => {
             modalName.textContent = participant.name;
             modalDetails.innerHTML = "";
 
-            participant.days.forEach((day) => {
+            for (let day = 1; day <= 6; day++) {
+                const dayDiv = document.createElement("div");
+                dayDiv.classList.add("day", day-${day});
+
                 const dayHeader = document.createElement("h3");
-                dayHeader.textContent = `Hari ${day.day}`;
-                modalDetails.appendChild(dayHeader);
-
-                day.sessions.forEach((session) => {
-                    const sessionDiv = document.createElement("div");
-                    sessionDiv.classList.add("session-details");
-
-                    const sessionHeader = document.createElement("h3");
-                    sessionHeader.textContent = `Sesi ${session.session}`;
-                    sessionDiv.appendChild(sessionHeader);
-
-                    for (const [key, value] of Object.entries(session.points)) {
-                        const pointDetail = document.createElement("p");
-                        pointDetail.textContent = `${key}: ${value} poin`;
-                        sessionDiv.appendChild(pointDetail);
+                dayHeader.textContent = Hari ${day};
+                dayHeader.style.cursor = "pointer";
+                dayHeader.addEventListener("click", () => {
+                    const dayData = participant.days.find((d) => d.day === day);
+                    if (dayData) {
+                        showSessions(day, dayData.sessions);
                     }
-
-                    modalDetails.appendChild(sessionDiv);
                 });
-            });
+
+                dayDiv.appendChild(dayHeader);
+                modalDetails.appendChild(dayDiv);
+            }
 
             modal.style.display = "flex";
         }
