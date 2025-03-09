@@ -9,31 +9,101 @@ const participants = [
                     {
                         session: 1,
                         points: {
-                            menangSebagaiImpostor: 5,
-                            membunuhCrewmate: 3,
-                            misiTerselesaikan: 7,
-                            mengidentifikasiImpostor: 2,
-                            membunuhImpostor: 4,
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
                         },
                     },
                     {
                         session: 2,
                         points: {
-                            menangSebagaiImpostor: 8,
-                            membunuhCrewmate: 1,
-                            misiTerselesaikan: 9,
-                            mengidentifikasiImpostor: 3,
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
                             membunuhImpostor: 0,
                         },
                     },
                     {
                         session: 3,
                         points: {
-                            menangSebagaiImpostor: 6,
-                            membunuhCrewmate: 4,
-                            misiTerselesaikan: 8,
-                            mengidentifikasiImpostor: 1,
-                            membunuhImpostor: 5,
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
                         },
                     },
                 ],
@@ -50,11 +120,989 @@ const participants = [
                     {
                         session: 1,
                         points: {
-                            menangSebagaiImpostor: 3,
-                            membunuhCrewmate: 4,
-                            misiTerselesaikan: 7,
-                            mengidentifikasiImpostor: 2,
-                            membunuhImpostor: 3,
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                ],
+            },
+        ],
+    },
+    {
+        id: 3,
+        name: "Viol",
+        days: [
+            {
+                day: 1,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                ],
+            },
+        ],
+    },
+    {
+        id: 4,
+        name: "Cinn",
+        days: [
+            {
+                day: 1,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                ],
+            },
+        ],
+    },
+    {
+        id: 5,
+        name: "FiNe",
+        days: [
+            {
+                day: 1,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                ],
+            },
+        ],
+    },
+    {
+        id: 6,
+        name: "Ao",
+        days: [
+            {
+                day: 1,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                ],
+            },
+        ],
+    },
+    {
+        id: 7,
+        name: "Anna",
+        days: [
+            {
+                day: 1,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                ],
+            },
+        ],
+    },
+    {
+        id: 8,
+        name: "Al",
+        days: [
+            {
+                day: 1,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                ],
+            },
+        ],
+    },
+    {
+        id: 9,
+        name: "Alex",
+        days: [
+            {
+                day: 1,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                ],
+            },
+        ],
+    },
+    {
+        id: 10,
+        name: "Kc",
+        days: [
+            {
+                day: 1,
+                sessions: [
+                    {
+                        session: 1,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 2,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 3,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 4,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 5,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 6,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 7,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 8,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 9,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
+                        },
+                    },
+                    {
+                        session: 10,
+                        points: {
+                            menangSebagaiImpostor: 0,
+                            membunuhCrewmate: 0,
+                            misiTerselesaikan: 0,
+                            mengidentifikasiImpostor: 0,
+                            membunuhImpostor: 0,
                         },
                     },
                 ],
@@ -80,7 +1128,7 @@ document.querySelectorAll(".participant-name").forEach((link) => {
 
             participant.days.forEach((day) => {
                 const dayHeader = document.createElement("h3");
-                dayHeader.textContent = Hari ${day.day};
+                dayHeader.textContent = `Hari ${day.day}`;
                 modalDetails.appendChild(dayHeader);
 
                 day.sessions.forEach((session) => {
@@ -88,12 +1136,12 @@ document.querySelectorAll(".participant-name").forEach((link) => {
                     sessionDiv.classList.add("session-details");
 
                     const sessionHeader = document.createElement("h3");
-                    sessionHeader.textContent = Sesi ${session.session};
+                    sessionHeader.textContent = `Sesi ${session.session}`;
                     sessionDiv.appendChild(sessionHeader);
 
                     for (const [key, value] of Object.entries(session.points)) {
                         const pointDetail = document.createElement("p");
-                        pointDetail.textContent = ${key}: ${value} poin;
+                        pointDetail.textContent = `${key}: ${value} poin`;
                         sessionDiv.appendChild(pointDetail);
                     }
 
