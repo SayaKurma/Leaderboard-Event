@@ -53,8 +53,9 @@ table {
  
 th, td { 
     padding: 14px; 
-    text-align: left; 
+    text-align: center; 
     transition: background-color 0.3s ease; 
+    border: 1px solid rgba(255, 255, 255, 0.1);
 } 
  
 th { 
