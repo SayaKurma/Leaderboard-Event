@@ -2835,72 +2835,27 @@ document.addEventListener("DOMContentLoaded", function () {
         tableBody.innerHTML = "";
 
         sortedParticipants.forEach((participant, index) => {
+            const totalPoints = calculateTotalPoints(participant);
             const row = document.createElement("tr");
+            
+            row.style.animation = `fadeIn 0.5s forwards`;
+            row.style.animationDelay = `${index * 0.05}s`;
+            row.style.opacity = "0";
+            
             row.innerHTML = `
-                <td>#${index + 1}</td>
+                <td><span class="rank">#${index + 1}</span></td>
                 <td><a href="#" class="participant-name" data-id="${participant.id}">${participant.name}</a></td>
-                <td>${calculateTotalPoints(participant)}</td>
+                <td>${totalPoints}</td>
             `;
+            
+            if (index < 3) {
+                row.classList.add(`rank-${index + 1}`);
+            }
+            
             tableBody.appendChild(row);
         });
 
-        document.querySelectorAll(".participant-name").forEach((link) => {
-            link.addEventListener("click", (e) => {
-                e.preventDefault();
-                const participantId = parseInt(link.getAttribute("data-id"));
-                const participant = participants.find((p) => p.id === participantId);
-
-                if (participant) {
-                    modalName.textContent = participant.name;
-                    modalDetails.innerHTML = "";
-
-                    const daysToDisplay = participant.days.filter(day => day.day >= 1 && day.day <= 6);
-
-                    daysToDisplay.forEach((day) => {
-                        const dayContainer = document.createElement("div");
-                        dayContainer.classList.add("day");
-
-                        const dayHeader = document.createElement("h3");
-                        dayHeader.textContent = `Hari ${day.day}`;
-                        dayHeader.addEventListener("click", () => {
-                            dayContainer.classList.toggle("active");
-                        });
-
-                        const sessionsContainer = document.createElement("div");
-                        sessionsContainer.classList.add("session-container");
-
-                        day.sessions.forEach((session) => {
-                            const sessionDiv = document.createElement("div");
-                            sessionDiv.classList.add("session-details");
-
-                            const sessionHeader = document.createElement("h4");
-                            sessionHeader.textContent = `Sesi ${session.session}`;
-                            sessionDiv.appendChild(sessionHeader);
-
-                            const totalPoints = Object.values(session.points).reduce((sum, val) => sum + val, 0);
-                            const totalPointsElement = document.createElement("p");
-                            totalPointsElement.textContent = `Total Poin: ${totalPoints}`;
-                            totalPointsElement.style.fontWeight = "bold";
-                            sessionDiv.appendChild(totalPointsElement);
-
-                            for (const [key, value] of Object.entries(session.points)) {
-                                const pointDetail = document.createElement("p");
-                                pointDetail.textContent = `${formatPointName(key)}: ${value} poin`;
-                                sessionDiv.appendChild(pointDetail);
-                            }
-
-                            sessionsContainer.appendChild(sessionDiv);
-                        });
-
-                        dayContainer.appendChild(dayHeader);
-                        dayContainer.appendChild(sessionsContainer);
-                        modalDetails.appendChild(dayContainer);
-                    });
-
-                    modal.style.display = "flex";
-                }
-            });
-        });
+        attachParticipantClickHandlers();
     }
 
     function formatPointName(key) {
@@ -2914,15 +2869,34 @@ document.addEventListener("DOMContentLoaded", function () {
         return formatMap[key] || key;
     }
 
-    closeBtn.addEventListener("click", () => {
-        modal.style.display = "none";
-    });
+    function attachParticipantClickHandlers() {
+        document.querySelectorAll(".participant-name").forEach((link) => {
+            link.addEventListener("click", (e) => {
+                e.preventDefault();
+                const participantId = parseInt(link.getAttribute("data-id"));
+                openParticipantDetails(participantId);
+            });
+        });
+    }
 
-    window.addEventListener("click", (e) => {
-        if (e.target === modal) {
-            modal.style.display = "none";
-        }
-    });
+    function openParticipantDetails(participantId) {
+        const participant = participants.find((p) => p.id === participantId);
 
-    updateLeaderboard();
-});
+        if (participant) {
+            modalName.textContent = participant.name;
+            modalDetails.innerHTML = "";
+
+            const daysToDisplay = participant.days.filter(day => day.day >= 1 && day.day <= 6);
+
+            daysToDisplay.forEach((day, dayIndex) => {
+                const dayContainer = document.createElement("div");
+                dayContainer.classList.add("day");
+                dayContainer.style.setProperty('--index', dayIndex);
+
+                const dayHeader = document.createElement("h3");
+                dayHeader.textContent = `Hari ${day.day}`;
+                
+                dayHeader.addEventListener("click", () => {
+                    const wasActive = dayContainer.classList.contains("active");
+                    
+                    document.querySelectorAll(".day").forEach(d => {
