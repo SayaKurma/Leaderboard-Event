@@ -2900,3 +2900,97 @@ document.addEventListener("DOMContentLoaded", function () {
                     const wasActive = dayContainer.classList.contains("active");
                     
                     document.querySelectorAll(".day").forEach(d => {
+                        d.classList.remove("active");
+                    });
+                    
+                    if (!wasActive) {
+                        dayContainer.classList.add("active");
+                    }
+                });
+
+                const sessionsContainer = document.createElement("div");
+                sessionsContainer.classList.add("session-container");
+
+                const sortedSessions = [...day.sessions].sort((a, b) => a.session - b.session);
+
+                sortedSessions.forEach((session, sessionIndex) => {
+                    const sessionDiv = document.createElement("div");
+                    sessionDiv.classList.add("session-details");
+                    sessionDiv.style.animation = `slideDown 0.3s forwards`;
+                    sessionDiv.style.animationDelay = `${sessionIndex * 0.1}s`;
+                    sessionDiv.style.opacity = "0";
+
+                    const sessionHeader = document.createElement("h4");
+                    sessionHeader.textContent = `Sesi ${session.session}`;
+                    sessionDiv.appendChild(sessionHeader);
+
+                    const totalPoints = Object.values(session.points).reduce((sum, val) => sum + val, 0);
+                    const totalPointsElement = document.createElement("p");
+                    totalPointsElement.innerHTML = `<strong>Total Poin:</strong> <span class="point-value">${totalPoints}</span>`;
+                    totalPointsElement.style.fontWeight = "bold";
+                    totalPointsElement.style.color = "#e6b800";
+                    sessionDiv.appendChild(totalPointsElement);
+
+                    const sortedPoints = Object.entries(session.points)
+                        .sort((a, b) => b[1] - a[1]);
+
+                    sortedPoints.forEach(([key, value]) => {
+                        const pointDetail = document.createElement("p");
+                        pointDetail.innerHTML = `<span>${formatPointName(key)}:</span> <span class="point-value">${value} poin</span>`;
+                        sessionDiv.appendChild(pointDetail);
+                    });
+
+                    sessionsContainer.appendChild(sessionDiv);
+                });
+
+                dayContainer.appendChild(dayHeader);
+                dayContainer.appendChild(sessionsContainer);
+                modalDetails.appendChild(dayContainer);
+            });
+
+            modal.style.display = "flex";
+            setTimeout(() => {
+                modal.classList.add("active");
+            }, 10);
+        }
+    }
+
+    function closeModal() {
+        modal.classList.remove("active");
+        setTimeout(() => {
+            modal.style.display = "none";
+        }, 300);
+    }
+
+    closeBtn.addEventListener("click", closeModal);
+
+    window.addEventListener("click", (e) => {
+        if (e.target === modal) {
+            closeModal();
+        }
+    });
+
+    document.addEventListener("keydown", (e) => {
+        if (e.key === "Escape" && modal.style.display === "flex") {
+            closeModal();
+        }
+    });
+
+    updateLeaderboard();
+
+    if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {
+        setInterval(() => {
+            participants.forEach(participant => {
+                if (participant.days.length > 0 && participant.days[0].sessions.length > 0) {
+                    const randomPoints = Math.floor(Math.random() * 10);
+                    const pointKeys = Object.keys(participant.days[0].sessions[0].points);
+                    if (pointKeys.length > 0) {
+                        const randomKey = pointKeys[Math.floor(Math.random() * pointKeys.length)];
+                        participant.days[0].sessions[0].points[randomKey] += randomPoints;
+                    }
+                }
+            });
+            updateLeaderboard();
+        }, 5000);
+    }
+});
