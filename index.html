@@ -5,96 +5,108 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
     <title>Papan Peringkat</title> 
     <link rel="stylesheet" href="style.css"> 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
 </head> 
 <body> 
     <div class="leaderboard"> 
         <div class="leaderboard-header"> 
-            <img src="assets/images/logo.jpg" alt="Logo" style="height: 40px;"> 
-            <span><h1>PAPAN PERINGKAT</h1></span> 
-        </div> 
-        <table id="leaderboard-table"> 
-            <thead> 
-                <tr> 
-                    <th>No.</th> 
-                    <th>Nama</th> 
-                    <th>Total Poin</th> 
-                </tr> 
-            </thead> 
-            <tbody> 
-                <tr> 
-                    <td>#1</td> 
-                    <td><a href="#" class="participant-name" data-id="1">Luki</a></td> 
-                    <td>0</td> 
-                </tr> 
-                <tr> 
-                    <td>#2</td> 
-                    <td><a href="#" class="participant-name" data-id="2">Gon</a></td> 
-                    <td>0</td> 
-                </tr> 
-                <tr> 
-                    <td>#3</td> 
-                    <td><a href="#" class="participant-name" data-id="3">Viol</a></td> 
-                    <td>0</td> 
-                </tr> 
-                <tr> 
-                    <td>#4</td> 
-                    <td><a href="#" class="participant-name" data-id="4">Cinn</a></td> 
-                    <td>0</td> 
-                </tr> 
-                <tr> 
-                    <td>#5</td> 
-                    <td><a href="#" class="participant-name" data-id="5">FiNe</a></td> 
-                    <td>0</td> 
-                </tr> 
-                <tr> 
-                    <td>#6</td> 
-                    <td><a href="#" class="participant-name" data-id="6">Ao</a></td> 
-                    <td>0</td> 
-                </tr> 
-                <tr> 
-                    <td>#7</td> 
-                    <td><a href="#" class="participant-name" data-id="7">Anna</a></td> 
-                    <td>0</td> 
-                </tr> 
-                <tr> 
-                    <td>#8</td> 
-                    <td><a href="#" class="participant-name" data-id="8">Al</a></td> 
-                    <td>0</td> 
-                </tr> 
-                <tr> 
-                    <td>#9</td> 
-                    <td><a href="#" class="participant-name" data-id="9">Alex</a></td> 
-                    <td>0</td> 
-                </tr> 
-                <tr> 
-                    <td>#10</td> 
-                    <td><a href="#" class="participant-name" data-id="10">Kc</a></td> 
-                    <td>0</td> 
-                </tr> 
-                <tr> 
-                    <td>#11</td> 
-                    <td><a href="#" class="participant-name" data-id="11">Jena</a></td> 
-                    <td>0</td> 
-                </tr> 
-                <tr> 
-                    <td>#12</td> 
-                    <td><a href="#" class="participant-name" data-id="12">BoyLSaden</a></td> 
-                    <td>0</td> 
-                </tr> 
-                <tr> 
-                    <td>#13</td> 
-                    <td><a href="#" class="participant-name" data-id="13">boybak</a></td> 
-                    <td>0</td> 
-                </tr> 
-            </tbody> 
-        </table> 
+            <div class="logo-container">
+                <img src="assets/images/logo.jpg" alt="Logo" class="logo-image">
+                <div class="logo-glow"></div>
+            </div>
+            <h1>PAPAN PERINGKAT</h1> 
+        </div>
+        
+        <div class="table-container">
+            <table id="leaderboard-table"> 
+                <thead> 
+                    <tr> 
+                        <th>No.</th> 
+                        <th>Nama</th> 
+                        <th>Total Poin</th> 
+                    </tr> 
+                </thead> 
+                <tbody> 
+                    <tr> 
+                        <td><span class="rank">#1</span></td> 
+                        <td><a href="#" class="participant-name" data-id="1">Luki</a></td> 
+                        <td>0</td> 
+                    </tr> 
+                    <tr> 
+                        <td><span class="rank">#2</span></td> 
+                        <td><a href="#" class="participant-name" data-id="2">Gon</a></td> 
+                        <td>0</td> 
+                    </tr> 
+                    <tr> 
+                        <td><span class="rank">#3</span></td> 
+                        <td><a href="#" class="participant-name" data-id="3">Viol</a></td> 
+                        <td>0</td> 
+                    </tr> 
+                    <tr> 
+                        <td><span class="rank">#4</span></td> 
+                        <td><a href="#" class="participant-name" data-id="4">Cinn</a></td> 
+                        <td>0</td> 
+                    </tr> 
+                    <tr> 
+                        <td><span class="rank">#5</span></td> 
+                        <td><a href="#" class="participant-name" data-id="5">FiNe</a></td> 
+                        <td>0</td> 
+                    </tr> 
+                    <tr> 
+                        <td><span class="rank">#6</span></td> 
+                        <td><a href="#" class="participant-name" data-id="6">Ao</a></td> 
+                        <td>0</td> 
+                    </tr> 
+                    <tr> 
+                        <td><span class="rank">#7</span></td> 
+                        <td><a href="#" class="participant-name" data-id="7">Anna</a></td> 
+                        <td>0</td> 
+                    </tr> 
+                    <tr> 
+                        <td><span class="rank">#8</span></td> 
+                        <td><a href="#" class="participant-name" data-id="8">Al</a></td> 
+                        <td>0</td> 
+                    </tr> 
+                    <tr> 
+                        <td><span class="rank">#9</span></td> 
+                        <td><a href="#" class="participant-name" data-id="9">Alex</a></td> 
+                        <td>0</td> 
+                    </tr> 
+                    <tr> 
+                        <td><span class="rank">#10</span></td> 
+                        <td><a href="#" class="participant-name" data-id="10">Kc</a></td> 
+                        <td>0</td> 
+                    </tr> 
+                    <tr> 
+                        <td><span class="rank">#11</span></td> 
+                        <td><a href="#" class="participant-name" data-id="11">Jena</a></td> 
+                        <td>0</td> 
+                    </tr> 
+                    <tr> 
+                        <td><span class="rank">#12</span></td> 
+                        <td><a href="#" class="participant-name" data-id="12">BoyLSaden</a></td> 
+                        <td>0</td> 
+                    </tr> 
+                    <tr> 
+                        <td><span class="rank">#13</span></td> 
+                        <td><a href="#" class="participant-name" data-id="13">boybak</a></td> 
+                        <td>0</td> 
+                    </tr> 
+                </tbody> 
+            </table>
+        </div>
     </div> 
  
     <div id="participant-modal" class="modal"> 
         <div class="modal-content"> 
-            <span class="close">&times;</span> 
-            <h2 id="modal-name"></h2> 
-            <div id="modal-details"></div> 
+            <div class="modal-header">
+                <h2 id="modal-name"></h2>
+                <span class="close">&times;</span>
+            </div>
+            <div id="modal-details"></div>
         </div> 
     </div> 
  
