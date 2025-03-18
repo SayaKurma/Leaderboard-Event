@@ -154,6 +154,21 @@ document.addEventListener("DOMContentLoaded", function () {
                         { session: 10, points: { menangSebagaiImpostor: 0, membunuhCrewmate: 0, misiTerselesaikan: 4, mengidentifikasiImpostor: 0, membunuhImpostor: 0 } }, 
                     ], 
                 },
+                {
+                    day: 5,
+                    sessions: [
+                        { session: 1, points: { menangSebagaiImpostor: 0, membunuhCrewmate: 0, misiTerselesaikan: 3, mengidentifikasiImpostor: 0, membunuhImpostor: 0 } },
+                        { session: 2, points: { menangSebagaiImpostor: 0, membunuhCrewmate: 0, misiTerselesaikan: 4, mengidentifikasiImpostor: 0, membunuhImpostor: 0 } },
+                        { session: 3, points: { menangSebagaiImpostor: 0, membunuhCrewmate: 0, misiTerselesaikan: 0, mengidentifikasiImpostor: 0, membunuhImpostor: 0 } },
+                        { session: 4, points: { menangSebagaiImpostor: 0, membunuhCrewmate: 0, misiTerselesaikan: 2.5, mengidentifikasiImpostor: 0, membunuhImpostor: 0 } },
+                        { session: 5, points: { menangSebagaiImpostor: 0, membunuhCrewmate: 0, misiTerselesaikan: 4, mengidentifikasiImpostor: 4, membunuhImpostor: 0 } },
+                        { session: 6, points: { menangSebagaiImpostor: 3, membunuhCrewmate: 4.5, misiTerselesaikan: 0, mengidentifikasiImpostor: 0, membunuhImpostor: 0 } },
+                        { session: 7, points: { menangSebagaiImpostor: 0, membunuhCrewmate: 0, misiTerselesaikan: 1, mengidentifikasiImpostor: 0, membunuhImpostor: 0 } },
+                        { session: 8, points: { menangSebagaiImpostor: 0, membunuhCrewmate: 0, misiTerselesaikan: 0.5, mengidentifikasiImpostor: 0, membunuhImpostor: 0 } },
+                        { session: 9, points: { menangSebagaiImpostor: 0, membunuhCrewmate: 3, misiTerselesaikan: 0, mengidentifikasiImpostor: 0, membunuhImpostor: 0 } },
+                        { session: 10, points: { menangSebagaiImpostor: 0, membunuhCrewmate: 0, misiTerselesaikan: 2.5, mengidentifikasiImpostor: 0, membunuhImpostor: 0 } }, 
+                    ], 
+                },
             ],
         },
         {
