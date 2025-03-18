@@ -547,7 +547,7 @@ document.addEventListener("DOMContentLoaded", function () {
                         { session: 1, points: { menangSebagaiImpostor: 0, membunuhCrewmate: 0, misiTerselesaikan: 0, mengidentifikasiImpostor: 0, membunuhImpostor: 0 } },
                         { session: 2, points: { menangSebagaiImpostor: 0, membunuhCrewmate: 1.5, misiTerselesaikan: 0, mengidentifikasiImpostor: 0, membunuhImpostor: 0 } },
                         { session: 3, points: { menangSebagaiImpostor: 0, membunuhCrewmate: 0, misiTerselesaikan: 3, mengidentifikasiImpostor: 0, membunuhImpostor: 0 } },
-                        { session: 4, points: { menangSebagaiImpostor: 0, membunuhCrewmate: 0, misiTerselesaikan: 0.5 mengidentifikasiImpostor: 0, membunuhImpostor: 0 } },
+                        { session: 4, points: { menangSebagaiImpostor: 0, membunuhCrewmate: 0, misiTerselesaikan: 0.5, mengidentifikasiImpostor: 0, membunuhImpostor: 0 } },
                         { session: 5, points: { menangSebagaiImpostor: 0, membunuhCrewmate: 0, misiTerselesaikan: 2.5, mengidentifikasiImpostor: 0, membunuhImpostor: 0 } },
                         { session: 6, points: { menangSebagaiImpostor: 0, membunuhCrewmate: 0, misiTerselesaikan: 0.5, mengidentifikasiImpostor: 0, membunuhImpostor: 0 } },
                         { session: 7, points: { menangSebagaiImpostor: 0, membunuhCrewmate: 1.5, misiTerselesaikan: 0, mengidentifikasiImpostor: 0, membunuhImpostor: 0 } },
